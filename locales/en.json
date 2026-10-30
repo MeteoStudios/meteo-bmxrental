@@ -1,0 +1,45 @@
+{
+    "blip_name": "Bike Rental",
+
+    "target_rent": "Rent a bike",
+    "target_return": "Return bike",
+    "target_remove": "Remove dock",
+
+    "menu_title": "Bike Rental",
+    "menu_bike": "%s - %s%s",
+    "menu_cost": "Rent %s%s + Deposit %s%s (deposit refunded when you return it)",
+
+    "rent_started": "Your bike is on its way up, you pay when you get on",
+    "bike_waiting": "A bike is already waiting on the dock",
+    "claimed": "Bike rented for %s%s, the %s%s deposit comes back when you return it",
+    "rent_failed": "Could not rent a bike",
+    "dock_busy": "The dock is busy, wait a moment",
+    "dock_blocked": "Clear the hatch first",
+    "already_renting": "You already have a bike out",
+    "not_enough_money": "You need %s%s to rent this bike",
+    "not_claimed": "Nobody took the bike, it went back",
+    "bike_lost": "Your rental bike is gone, the deposit is lost",
+    "papers_description": "%s - Plate %s - Deposit %s%s",
+
+    "no_rental": "You have no bike to return",
+    "park_on_dock": "Park the bike on the dock first",
+    "get_off_bike": "Get off the bike first",
+    "returned": "Bike returned, %s%s deposit refunded",
+    "return_failed": "Could not return the bike",
+
+    "no_permission": "You can't do that",
+    "place_help": "**Placing BMX Dock**  \n[LMB] Place  \n[E] Place where you stand  \n[Scroll] Rotate  \n[Ctrl + Scroll] Fine rotate  \n[Shift + Scroll] Height  \n[RMB] Cancel  \n  \nHeading: %d°  \nHeight: %+.2f m",
+    "dock_placed": "Dock placed",
+    "dock_place_failed": "Could not place the dock",
+    "dock_removed": "Dock removed",
+    "remove_confirm_title": "Remove dock",
+    "remove_confirm_text": "Remove dock #%s for everyone?",
+
+    "manage_title": "BMX Docks",
+    "manage_place": "Place new dock",
+    "manage_dock": "Dock #%s",
+    "manage_distance": "%s m away",
+    "manage_teleport": "Teleport",
+    "manage_waypoint": "Set waypoint",
+    "manage_remove": "Remove"
+}
