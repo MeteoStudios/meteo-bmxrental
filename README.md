@@ -1,9 +1,18 @@
 # meteo-bmxrental
 
-Thanks for choosing our script, we really appreciate it.
+Immersive BMX rental script with animated docks.
 
-Hope you have a good time with your agents :)
+> **Check out our latest in-game creators update**
+> Build garages, shops, rentals and more right in game with the [Meteo V2 Package](https://meteofivem.net/meteo-v2-package).
 
-Discord: https://discord.gg/9kMhSUfuRm
-YouTube: https://www.youtube.com/@meteostudios
-Web Store: https://meteostudios.net
+## Preview
+
+[![Preview](https://img.youtube.com/vi/iYlKq8yHIiE/maxresdefault.jpg)](https://youtu.be/iYlKq8yHIiE)
+
+## Documentation
+
+https://docs.meteofivem.net/free-scripts/meteo-bmxrental
+
+## License
+
+[GNU GPL v3](LICENSE)
